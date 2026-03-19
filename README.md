@@ -1,3 +1,6 @@
+## 🌐 Live Demo
+
+👉 [Click here to try the app](https://mini-rag-ssfckap627seyoy4ajwcqw.streamlit.app/)
 
 ##  How to Run Locally
 
