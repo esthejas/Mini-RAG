@@ -1,5 +1,5 @@
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 Follow the steps below to set up and run the project on your local machine.
 
