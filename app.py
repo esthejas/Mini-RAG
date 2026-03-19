@@ -61,7 +61,7 @@ Question:
 query = st.text_input("Ask your question:")
 
 if query:
-    retrieved_docs = retriever.get_relevant_documents(query)
+    retrieved_docs = retriever.invoke(query)
 
     st.subheader(" Retrieved Context")
     context_text = ""
