@@ -19,7 +19,6 @@ Install all required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-pip install -r requirements.txt
 
 create a .env file in the root directory and add your OpenRouter API key:
 
